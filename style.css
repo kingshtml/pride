@@ -1,0 +1,62 @@
+body{
+    background-color: #d9eae2;
+    margin: auto
+}
+header{
+    background-color: #090080;
+    color: red;
+    position: relative;
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+main a{
+    text-decoration: none;
+}
+img{
+    text-align: center;
+}
+a{
+    color: red;
+}
+#img1{
+    float: left;
+    margin-right: 10px;
+}
+#img2{
+    float: left;
+    margin-right: 10px;
+}
+a:hover{
+    color: darkred;
+}
+input{
+    background-color: red;
+}
+input:hover{
+    background-color: white;
+}
+.pagination{
+    text-align: center;
+}
+.pagination a{
+    color: red;
+    text-decoration: none;
+    padding: 8px 70px;
+    display: inline-block;
+}
+.pagination a:hover{
+    color: darkred;
+}
+footer{
+    background-color: #150080;
+    color: white;
+    text-align: center;
+}
+header a{
+    text-decoration: none;
+}
+@media (max-width: 500px) {
+    
+}
